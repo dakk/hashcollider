@@ -1,0 +1,16 @@
+molto;cospicuo;costante
+accumulati;ottenuti;collezionati
+consegnato;conseguito
+il numero;il gran numero;il grande numero;lo strabiliante numero;linvidiabile numero;la quantita;la cospicua quantita;la grande quantita;la strabiliante quantita
+la quantita;il numero;il gran numero;il grande numero;lo strabiliante numero;linvidiabile numero;la cospicua quantita;la grande quantita;la strabiliante quantita
+persone;studenti
+nel corrente;nellattuale;in questo
+anno accademico;AA;A.A.
+AA;anno accademico;A.A.
+deve avere;avra;ha ottenuto
+di FS;di fondamenti di sicurezza;di FS;di Fondamenti di Sicurezza
+lo studente;lalunno;laspirante informatico
+il secondo parziale;la seconda prova;il secondo parziale dellesame;la seconda prova dellesame
+il voto;la valutazione;il giudizio;il risultato
+del voto;della valutazione;del risultato;del giudizio
+#che non ha consegnato;che ha evitato di consegnare;che si e rifiutato di consegnare
